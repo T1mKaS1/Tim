@@ -1,14 +1,25 @@
-h1 {
+.title-div {
     font-family: "Anton", sans-serif;
     font-weight: 400;
     font-size: 250px;
     margin-left: 45vw;
-    margin-top: 10vh;
-}
+    margin-top: 13vh;}
+
+h1{font-size: 250px;}
+
+h2{font-size: 44px ;}
 
 .image {
    position: absolute;
     z-index: -1;
     top: 9vh;
-    left: -10px;
-}
+    left: -10px;}
+
+  
+  .content-div
+  { font-family: "Montserrat", sans-serif;
+    font-weight: 500px;
+    margin-left: 61vw;
+    margin-top: 33vh;
+}  
+ 
